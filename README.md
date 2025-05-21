@@ -9,7 +9,7 @@ Prints basic info about the Operating System name and system hardware. By defaul
 
 ### Common Options:
 
--a                              Displays all system information
+-a    Displays all system information
 
 -s                              Shows the kernel name
 
