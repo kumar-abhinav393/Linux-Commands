@@ -10,7 +10,9 @@ Prints basic info about the Operating System name and system hardware. By defaul
 ### Common Options:
 
 OPTION                          DESCRIPTION
+
 -a                              Displays all system information
+
 -s                              Shows the kernel name
 -r                              Displays the kernel release name
 -v                              Shows the kernel version
